@@ -1,6 +1,5 @@
 AiLearning for beginner
 
-简要描述你的项目，说明它的目的和功能。
 
 ## 特性
 
@@ -17,4 +16,4 @@ AiLearning for beginner
 
 ### 安装步骤
 
-1. 克隆仓库https://github.com/NICERTYU/MyAILearning.gitgit clone https://github.com/your-username/your-repository.git
+1. 克隆仓库git clone https://github.com/NICERTYU/MyAILearning.git
